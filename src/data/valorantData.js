@@ -1,4 +1,3 @@
-// ARQUIVO: src/data/valorantData.js
 // Dados mockados do time de VALORANT
 
 // Função para obter próximos jogos do time de VALORANT
