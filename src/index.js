@@ -1,4 +1,3 @@
-// ARQUIVO: src/index.js
 // Bot do Telegram para fãs dos times ativos da FURIA: CS, Valorant, League of Legends e Rainbow Six Siege
 
 const TelegramBot = require('node-telegram-bot-api');
