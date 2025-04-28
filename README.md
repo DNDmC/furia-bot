@@ -114,7 +114,7 @@ BOT_FURIA/
 
 [Link para vídeo de demonstração ou imagens do bot em funcionamento]
 
-Para testar o bot diretamente no Telegram: [@FuricoDaFuriaBot](https://t.me/FuricoDaFuriaBot)
+Para testar o bot diretamente no Telegram: [@FuriaBot](https://t.me/FuriaBot)
 
 ## 🧩 Desafios e Soluções
 
