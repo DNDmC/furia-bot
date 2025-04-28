@@ -1,7 +1,7 @@
 // Funções para exibição de menus do bot
 
-const { getTeamName } = require('./src/utils/helpers');
-const UserPreferences = require('./src/models/Preferences');
+const { getTeamName } = require('../utils/helpers');
+const UserPreferences = require('../models/Preferences');
 
 // Função para mostrar o menu principal
 async function showMainMenu(bot, chatId, team) {
