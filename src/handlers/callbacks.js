@@ -14,10 +14,10 @@ const {
 } = require('../menus/menus');
 
 // Importar dados dos times
-const csData = require('./src/data/csData');
-const valorantData = require('./src/data/valorantData');
-const lolData = require('./src/data/lolData');
-const r6Data = require('./src/data/r6Data');
+const csData = require('../data/csData');
+const valorantData = require('../data/valorantData');
+const lolData = require('../data/lolData');
+const r6Data = require('../data/r6Data');
 
 // Handler para callbacks (botões)
 async function handleCallbackQuery(bot, callbackQuery) {
