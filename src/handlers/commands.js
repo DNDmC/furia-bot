@@ -1,7 +1,7 @@
 // Handlers para comandos do bot
 
-const User = require('./src/models/User');
-const UserPreferences = require('./src/Preferences');
+const User = require('../models/User');
+const UserPreferences = require('../models/Preferences');
 const { showMainMenu, showAllTeamsMenu, showSettings } = require('../menus/menus');
 
 // Handler para o comando /start

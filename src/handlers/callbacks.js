@@ -1,7 +1,7 @@
 // Handlers para callbacks (botões)
 
-const UserPreferences = require('./src/Preferences');
-const { getTeamName } = require('./src/utils/helpers');
+const UserPreferences = require('../Preferences');
+const { getTeamName } = require('../utils/helpers');
 const { 
   showMainMenu, 
   showAllTeamsMenu, 
